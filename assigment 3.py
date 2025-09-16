@@ -1,7 +1,6 @@
 '''
 TASK 1
 '''
-import math
 
 n=int(input("ENTER YOUR NUMBER :-  "))
 
@@ -19,6 +18,7 @@ print('FACTORAL OF' , n, 'is', a)
 '''
 TASK 2
 '''
+import math
 
 num=int(input("ENTER THE VALUE :-  "))
 
@@ -29,3 +29,4 @@ print('Square root of',num,'is',math.sqrt(num))
 print('log of ',num,'is',math.log(num))
 
 print('sin of ',num,'is',math.sin(num))
+
